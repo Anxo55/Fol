@@ -1,7 +1,18 @@
 Ulises afiliado y en alta desde 2006 causa baja medica por gripe desde el 4 de enero hasta la 1a semana de febrero la BCC de diciembre fue de 
 1700€ y su salario es mensual grupo de cotizacion 2
 A) Podría solicitar la prestacion por incapacidad temporal?
+
+Si podria debido a que ha cotizado mas de 180 dias en los 5 años previos a la baja
+
 B) Calcula la cuantía de la prestacion del mes de enero
+
+base reguladora = 1700/30=56,67€
+los primeros tres dias --> nada
+los siguientes 12 dias--> 60%=56,67*12
+los siguientes 5 56,67*5=60%&
+los siguientes 6 56,67*8=340=75%
+total 918 total
+
 C) que parte de la prestacion corre a cargo del empresario?
 
 
